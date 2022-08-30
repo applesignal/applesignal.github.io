@@ -1,0 +1,8 @@
+{
+  "label": "[admin]",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+	"title": "管理分類"
+  }
+}

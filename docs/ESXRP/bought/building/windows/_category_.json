@@ -1,0 +1,8 @@
+{
+  "label": "Windows系統",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "2分鐘在Windows上安裝Mysql"
+  }
+}

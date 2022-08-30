@@ -1,0 +1,9 @@
+{
+  "label": "resources",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+	"title": "檔案內容",
+	"description" : "在這裡你可以了解每個檔案的功能和操作"
+  }
+}
