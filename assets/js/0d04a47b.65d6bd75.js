@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4491],{2933:e=>{e.exports=JSON.parse('{"title":"\u904a\u6232\u6a5f\u4e2d\u5fc3","slug":"/category/dave","permalink":"/docs/category/dave","navigation":{"previous":{"title":"[game]","permalink":"/docs/category/game"},"next":{"title":"Menu","permalink":"/docs/ESXRP/bought/resources/apple/game/dave/Menu"}}}')}}]);

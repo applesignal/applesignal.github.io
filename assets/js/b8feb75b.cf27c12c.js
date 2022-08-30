@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[3361],{4866:e=>{e.exports=JSON.parse('{"title":"\u904a\u6232\u5206\u985e","slug":"/category/game","permalink":"/docs/category/game","navigation":{"previous":{"title":"Rich","permalink":"/docs/ESXRP/bought/resources/apple/discord/Rich"},"next":{"title":"[dave]","permalink":"/docs/category/dave"}}}')}}]);

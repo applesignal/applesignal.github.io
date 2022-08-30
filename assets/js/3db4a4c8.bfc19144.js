@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[5969],{5631:e=>{e.exports=JSON.parse('{"title":"\u7ba1\u7406\u5206\u985e","slug":"/category/admin","permalink":"/docs/category/admin","navigation":{"previous":{"title":"resources","permalink":"/docs/category/resources"},"next":{"title":"Admin","permalink":"/docs/ESXRP/bought/resources/apple/admin/"}}}')}}]);
