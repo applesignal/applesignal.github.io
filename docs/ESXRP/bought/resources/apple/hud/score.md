@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## 簡述
 
-顯示玩家列表，Ping，職業，人數等等
+顯示玩家列表,Ping,職業,人數等等
 
 ## 功能
 
@@ -14,7 +14,7 @@ sidebar_position: 2
 - 可以顯示/隱藏 ID
 - 可以顯示/隱藏管理員
 - 可以顯示/隱藏工作
-- 支持VIP圖標（users.vip）
+- 支持VIP圖標 (users.vip)
 - 顯示管理員圖標
 - 白名單職業
 - Steam頭像
