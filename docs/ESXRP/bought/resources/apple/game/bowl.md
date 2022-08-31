@@ -6,36 +6,30 @@ sidebar_position: 4
 
 ## 簡述
 
-此管理面板替代以前版本的 ESX 中使用的 es_admin 和 vMenu 並保持在 0.01ms 比起 vMenu 功能更多更實用
+保齡球腳本
 
-## 功能
+:::tip 地點
+-141.83, -252.71, 44.0
+:::
 
-- 踢除玩家
-- 臨時禁令
-- 永久禁令
-- 離線禁令
-- 解除禁令
-- 給現金
-- 給銀行錢
-- 打開玩家庫存
-- 給物品
-- 給武器
-- 給車輛
-- 傳送航點
-- 帶上玩家
-- 轉到玩家
-- 旁觀者
-- 凍結玩家
-- 殺死玩家
-- 復活玩家
-- NoClip
-- Godmode
-- 公告
-- 工作管理
-- 權限管理
-- 生成車輛
-- 更改玩家工作
-- 改變天氣
-- 更改時間
-- 停電模式
-- 懲罰系統
+## 使用方法
+
+開始前
+```
+左右 選擇球道
+Enter 確認
+Backspace 取消
+```
+
+開始後
+```
+左右 旋轉
+上下 增減力量
+A和D 切換視角
+左鍵 拋出保齡球
+Backspace 停止遊戲
+```
+
+# 影片
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UIYEG1M5TlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

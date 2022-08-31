@@ -17,7 +17,14 @@ sidebar_position: 1
 - 風向和風速會修改球的運動 （默認是禁用的）
 - 還有一個標記，顯示當前的風運動和強度（標記顏色會改變風的強度，使用熱圖時，所以強風是紅色的，而風如果減少它會變得更藍）
 
+## 物品
 
+```jsx title="ox_inventory/data/items.lua"
+golf
+golf_yellow
+golf_green
+golf_pink
+```
 
 ## 配置
 
@@ -57,3 +64,7 @@ Backspace 離開
 ## 影片
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1pzkTaQX_6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 關聯插件
+
+[gCard](./gCard)

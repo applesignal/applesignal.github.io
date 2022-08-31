@@ -6,36 +6,15 @@ sidebar_position: 6
 
 ## 簡述
 
-此管理面板替代以前版本的 ESX 中使用的 es_admin 和 vMenu 並保持在 0.01ms 比起 vMenu 功能更多更實用
+- 設置賭注，然後你需要兩個玩家加入每一方並開始戰鬥。
+- 戰鬥時生命值上升到 500，戰鬥結束後恢復正常。
+- 如果你離擂台太遠，你就輸了。
+- 當其他玩家離戰鬥太近時，他們會傳送到外面。
 
-## 功能
+:::tip 位置
+-517.61, -1712.04, 20.45
+:::
 
-- 踢除玩家
-- 臨時禁令
-- 永久禁令
-- 離線禁令
-- 解除禁令
-- 給現金
-- 給銀行錢
-- 打開玩家庫存
-- 給物品
-- 給武器
-- 給車輛
-- 傳送航點
-- 帶上玩家
-- 轉到玩家
-- 旁觀者
-- 凍結玩家
-- 殺死玩家
-- 復活玩家
-- NoClip
-- Godmode
-- 公告
-- 工作管理
-- 權限管理
-- 生成車輛
-- 更改玩家工作
-- 改變天氣
-- 更改時間
-- 停電模式
-- 懲罰系統
+## 影片
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VRCbe0yz6ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
