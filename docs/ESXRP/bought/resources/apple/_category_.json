@@ -1,0 +1,9 @@
+{
+  "label": "[apple]",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+	"title": "簡述",
+	"description" : "這裡是由Apple持續增加和更新的提升RP玩法插件"
+  }
+}

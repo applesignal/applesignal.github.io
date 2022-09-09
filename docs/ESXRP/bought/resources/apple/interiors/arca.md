@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## 簡述
 
-調用 Casino Heist DLC 街機
+調用 街機 DLC
 
 :::tip 位置
 2737.96, -374.12,-47.99

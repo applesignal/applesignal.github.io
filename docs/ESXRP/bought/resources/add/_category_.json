@@ -1,9 +1,0 @@
-{
-  "label": "[admin]",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-	"title": "新增插件",
-	"description": "這裡是把你想新增的插件放進來的,方便以後更新是直接搬過去"
-  }
-}
