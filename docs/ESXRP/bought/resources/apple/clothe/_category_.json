@@ -1,0 +1,9 @@
+{
+  "label": "[clothe]",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+	"title": "衣服分類",
+	"description" : "注意! 任何你新增的衣服都會令衣服代碼上移或下移，導致一些預設的服裝代碼變更"
+  }
+}
