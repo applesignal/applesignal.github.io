@@ -1,8 +1,8 @@
 {
-  "label": "[casino]",
+  "label": "[house]",
   "position": 1,
   "link": {
     "type": "generated-index",
-	"title": "賭場分類"
+	"title": "房產分類"
   }
 }

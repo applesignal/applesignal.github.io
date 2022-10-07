@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # loaf
@@ -11,3 +11,9 @@ sidebar_position: 2
 ## 資源友好
 
 該資源使用 0.00ms 空閒時間，沒有任何 ```marker``` 使用 300 多個 ```marker``` 時，它在繪製 2 個 marker 時使用約 0.02 毫秒
+
+## 關聯插件
+
+[housing](../script/loaf/house/housing)
+
+[keysystem](../script/loaf/house/keysystem)
