@@ -10,4 +10,4 @@ sidebar_position: 2
 
 ## 關聯插件
 
-[Crew](./Crew)
+[Crew](./)

@@ -27,4 +27,4 @@ sidebar_position: 7
 
 ## 關聯插件
 
-[edive](./edive)
+[evide](./evide)

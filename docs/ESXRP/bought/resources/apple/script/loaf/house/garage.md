@@ -13,7 +13,7 @@ sidebar_position: 1
 	- 發動機健康
 	- 身體健康
 	- 污垢水平
-	- 變形（僅在使用 [VehicleDeformation](./gCard) 時）
+	- 變形（僅在使用 [VehicleDeformation](./) 時）
 	- 爆胎
 	- 視窗
 	- 門
