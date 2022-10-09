@@ -20,6 +20,6 @@ sidebar_position: 1
 
 ## 關聯插件
 
-[VehicleDeformation](./gCard)
+[VehicleDeformation](./)
 
 [housing](./housing)

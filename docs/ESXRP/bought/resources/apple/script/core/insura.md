@@ -15,4 +15,4 @@ sidebar_position: 4
 
 ## 關聯插件
 
-[apple_garage](./gCard)
+[apple_garage](./)

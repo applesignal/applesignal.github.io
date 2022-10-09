@@ -28,4 +28,4 @@ cannabis
 
 ## 關聯插件
 
-[esx_drugs](./gCard)
+[esx_drugs](./)

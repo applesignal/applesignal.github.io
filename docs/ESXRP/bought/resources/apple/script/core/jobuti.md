@@ -19,6 +19,6 @@ Boss 菜單和 Job center 為標準 esx 作業製作
 
 ## 關聯插件
 
-[esx_addonaccount](./gCard)
+[esx_addonaccount](./)
 
 [apple_multijob](./multi)
