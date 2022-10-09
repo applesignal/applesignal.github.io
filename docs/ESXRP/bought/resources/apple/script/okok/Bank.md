@@ -6,14 +6,13 @@ sidebar_position: 1
 
 ## 簡述
 
-存款/取款/轉賬；
-轉賬給離線玩家；
-IBAN/PIN碼可以更改為自定義；
-工作/社會賬戶；
-addon_account_data 支持；
-使用 AddNewTransaction 事件從任何其他資源註冊事務；
-不和諧日誌；
-翻譯
+- 存款/取款/轉賬
+- 轉賬給離線玩家
+- ```IBAN```/```PIN``` 碼可以更改為自定義
+- 工作/組織賬戶
+- addon_account_data 支持
+- 使用 AddNewTransaction 事件從任何其他資源創建紀錄
+- ```Discord``` 日誌
 
 ## 截圖
 

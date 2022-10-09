@@ -6,27 +6,15 @@ sidebar_position: 11
 
 ## 簡述
 
-iZone 是 FiveM 的區域管理系統。
-
-它提供了創建、管理區域、檢測玩家是否在區域中並提供將玩家困在區域中的可能性的實用程序。
-
-## 物品
-
-```jsx title="ox_inventory/data/items.lua"
-golf
-golf_yellow
-golf_green
-golf_pink
-```
+- 相機根據NPC的位置自動定位和旋轉
+- 在每個 NPC 中最多添加 6 個選項/動作（執行事件）
+- 設置每個NPC的名稱/對話信息/模型
+- 設置可以與某個NPC互動的職業
 
 ## 截圖
 
-![控制板](img/i1.png)
+![Talk](img/Talk.png)
 
 ## 影片
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1pzkTaQX_6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## 關聯插件
-
-[gCard](./gCard)

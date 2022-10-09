@@ -6,27 +6,21 @@ sidebar_position: 13
 
 ## 簡述
 
-iZone 是 FiveM 的區域管理系統。
-
-它提供了創建、管理區域、檢測玩家是否在區域中並提供將玩家困在區域中的可能性的實用程序。
-
-## 物品
-
-```jsx title="ox_inventory/data/items.lua"
-golf
-golf_yellow
-golf_green
-golf_pink
-```
+- 汽車/飛機和直升機/船店
+- 玩家擁有的經銷商（玩家可以擁有多個車輛商店）
+- 服務器擁有的經銷商
+- 員工等級
+- RGB/顏色 ID 支持
+- 包括管理菜單來管理每個商店
+- 試駕
+- ```Discord``` 日誌
 
 ## 截圖
 
-![控制板](img/i1.png)
+![Vehic1](img/Vehic1.png)
+
+![Vehic2](img/Vehic2.png)
 
 ## 影片
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1pzkTaQX_6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## 關聯插件
-
-[gCard](./gCard)
