@@ -6,11 +6,13 @@ sidebar_position: 2
 
 ## 小遊戲
 
+- [FPS對戰系統](https://store.rcore.cz/package/5302250)
 - [籃球](https://store.rcore.cz/package/5302250)
 - [飛鏢](https://store.rcore.cz/package/5237675)
 - [新版保齡球](https://store.rcore.cz/package/5125529)
 - [啤酒乒乓](https://store.rcore.cz/package/5014042)
 - [單臂摔跤](https://store.rcore.cz/package/4355439)
+- [跳舞機](https://artscripts.tebex.io/package/5310830)
 
 ## 系統
 
@@ -49,6 +51,7 @@ sidebar_position: 2
 ## 地圖
 
 - [公寓地圖](https://www.k4mb1maps.com/package/4672296)
+- [軍團廣場](https://larygary.tebex.io/category/pls)
 
 ## 高品質作者
 
@@ -66,3 +69,4 @@ sidebar_position: 2
 
 - [k4mb1](https://www.k4mb1maps.com)
 - [brunxmods](https://store.brunxmods.com)
+- [larygary](https://larygary.tebex.io/)
