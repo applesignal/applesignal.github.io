@@ -16,7 +16,7 @@ sidebar_position: 2
 
 ```jsx title="config.lua"
 Config.InvoicesCommand 允許玩家打開計費菜單的命令
-Config.VATPercentage 發票的增值稅百分比（僅視覺，不會影響最終發票價值）
+Config.VATPercentage 發票的增值稅百分比 (僅視覺，不會影響最終發票價值)
 Config.LimitDate 如果您希望玩家有一個支付發票的截止日期
 Config.LimitDateDays 如果截止日期選項設置為真，玩家必須支付多少天的發票
 Config.PayAutomaticallyAfterLimit 是否希望系統在截止日期後自動支付發票

@@ -34,8 +34,8 @@ sidebar_position: 1
 
 | Export | 描述 | 用法 | 例子 |
 | --- | --- | --- | --- |
-| isOwnGangVehicle | 檢查是否與車輛相關的玩家幫派 | 用於鎖定或解鎖車門 | local vehicle = GetVehiclePedIsIn(PlayerPedId()) exports['apple_gang']:isOwnGangVehicle(vehicle) |
-| getGangID | 獲取玩家幫派 ID | 任何你想的地點都可以 | exports['apple_gang']:getGangID() |
-| getGangGrade | 獲得玩家幫派等級（boss為0） | 任何你想的地點都可以 | exports['apple_gang']:getGangGrade() |
-| getGangName | 獲取玩家幫派名稱 | 在 HUD 或任何你想要的地方 | exports['apple_gang']:getGangName() |
-| getGangGradeName | 獲取玩家幫派等級名稱 | 在 HUD 或任何你想要的地方 | exports['apple_gang']:getGangGradeName() |
+| isOwnGangVehicle | 檢查是否與車輛相關的玩家幫派 | 用於鎖定或解鎖車門 | local vehicle = GetVehiclePedIsIn(PlayerPedId())exports['apple_gang']:isOwnGangVehicle(vehicle)|
+| getGangID | 獲取玩家幫派 ID | 任何你想的地點都可以 | exports['apple_gang']:getGangID()|
+| getGangGrade | 獲得玩家幫派等級 (boss為0) | 任何你想的地點都可以 | exports['apple_gang']:getGangGrade()|
+| getGangName | 獲取玩家幫派名稱 | 在 HUD 或任何你想要的地方 | exports['apple_gang']:getGangName()|
+| getGangGradeName | 獲取玩家幫派等級名稱 | 在 HUD 或任何你想要的地方 | exports['apple_gang']:getGangGradeName()|

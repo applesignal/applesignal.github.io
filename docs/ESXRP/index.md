@@ -2,6 +2,6 @@
 sidebar_position: 3
 ---
 
-# AppleRP
+# AppleRP 1.8.5
 
-## 選用最新ESX進行開發
+## 選用最新 `ESX` 進行開發
